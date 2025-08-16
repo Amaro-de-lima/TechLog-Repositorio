@@ -18,7 +18,4 @@ O objetivo é facilitar e padronizar a implantação do ambiente, garantindo seg
 - **README.md** → Documento explicando o propósito do projeto e como executá-lo.
 
 ## 🚀 Como Executar
-1. Faça o clone do repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/TechLog-Repo.git
-   cd TechLog-Repo
+Veja mais no arquivo zip.
