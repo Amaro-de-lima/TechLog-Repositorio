@@ -18,4 +18,23 @@ O objetivo é facilitar e padronizar a implantação do ambiente, garantindo seg
 - **README.md** → Documento explicando o propósito do projeto e como executá-lo.
 
 ## 🚀 Como Executar
-Veja mais no arquivo zip.
+1. Clone este repositório:
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
+   ```
+2. Dê permissão de execução ao script:
+   ```bash
+   chmod +x setup_infra.sh
+   ```
+3. Execute o script:
+   ```bash
+   ./setup_infra.sh
+   ```
+
+## Requisitos
+
+- Ubuntu Server 22.04 LTS
+- Permissões de superusuário (sudo)
+
+---
+**Autor:** Equipe de Configuração TechLog
