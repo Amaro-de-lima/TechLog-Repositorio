@@ -36,5 +36,3 @@ O objetivo é facilitar e padronizar a implantação do ambiente, garantindo seg
 - Ubuntu Server 22.04 LTS
 - Permissões de superusuário (sudo)
 
----
-**Autor:** Equipe de Configuração TechLog
